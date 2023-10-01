@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  身高计算.vcxproj -> D:\VS\身高计算\x64\Release\身高计算.exe
